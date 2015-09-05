@@ -8,4 +8,7 @@ header {
 	background: #333;
 	color: #c00;
 	text-transform: uppercase;
+	height: 70px;
+	text-align: center;
+	padding-top: 30px;
 }
